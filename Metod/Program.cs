@@ -4,6 +4,9 @@ namespace Metod
 {
     internal class Program
     {
+
+        #region H.W.Record Codes.
+
         static void Main(string[] args)
         {
             Console.Write("Daxil edin: ");
@@ -101,7 +104,7 @@ namespace Metod
             return 2 ;
         }
 
-
+#endregion
 
 
     }
