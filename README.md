@@ -1,1 +1,1 @@
-H.W.04metod
+Recordda olan yazilan kodlar
